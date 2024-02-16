@@ -18,6 +18,9 @@ InternalUI is a big toolkit of exploiting tools for Discord.
 - Server bomber panel
 - Much more!
 
+## Open-Source
+You can modify or improve by yourself too!
+
 ## Builder
 You can create the token stealer (.exe) by using this tool and it will send you via webhook.
 
