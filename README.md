@@ -9,6 +9,8 @@ Update logs:
 + Added Token Gen
 + Improve Token Checker (can use without proxy)
 ```
+The button kinda buggy but totally it worked normally (Ofc i censored it ;-;)
+![Upd](https://cdn.discordapp.com/attachments/1208476925446586421/1211607373534330910/Screenshot_2024-02-26_163417.png?ex=65eed04c&is=65dc5b4c&hm=578db2fec53998a20fd15b2af2edd0c5702f752238470a410ca73176f7f70b20&)
 
 ## Features:
 - Joiner and Leaver 
