@@ -3,8 +3,11 @@
 
 InternalUI is a big toolkit of exploiting tools for Discord.
 
-```
-Updated: Added Nitro and Token Gen (use proxy)
+```py
+Update logs:
++ Added Nitro Gen
++ Added Token Gen
++ Improve Token Checker (can use without proxy)
 ```
 
 ## Features:
