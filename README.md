@@ -3,6 +3,10 @@
 
 InternalUI is a big toolkit of exploiting tools for Discord.
 
+```
+Updated: Added Nitro and Token Gen (use proxy)
+```
+
 ## Features:
 - Joiner and Leaver 
 - Token Checker
@@ -16,6 +20,8 @@ InternalUI is a big toolkit of exploiting tools for Discord.
 - Embed Spammer
 - Role Mass Mentioner
 - Server bomber panel
+- Nitro Gen (with proxy)
+- Token Gen (with proxy)
 - Much more!
 
 ## Open-Source
