@@ -3,6 +3,17 @@
 
 InternalUI is a big toolkit of exploiting tools for Discord.
 
+## Installation
+To use InternalUI, Python is required to run it:
+
+### You can use build.bat to install the requirement too!
+### Python
+You can use the latest version of Python!
+```
+pip install -r requirements.txt
+python IUI.py
+```
+
 ```py
 Update logs:
 + Added Nitro Gen
@@ -42,15 +53,6 @@ You can now hack games by using the Lua executor to hack these games:
 ### Games that support the executor:
 - Growtopia
 - Pixel World (Coming soon)
-
-## Installation
-To use InternalUI, Python is required to run it:
-### Python
-You can use the latest version of Python!
-```
-pip install -r requirements.txt
-python IUI.py
-```
 
 ## Disclaimer
 I am not responsible for any bans you might/will receive using this tool.
