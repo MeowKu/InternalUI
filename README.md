@@ -6,7 +6,7 @@ InternalUI is a big toolkit of exploiting tools for Discord.
 ## Installation
 To use InternalUI, Python is required to run it:
 
-### You can use build.bat to install the requirement too!
+### You can use **__build.bat__** to install the requirement too!
 ### Python
 You can use the latest version of Python!
 ```
@@ -17,12 +17,12 @@ python IUI.py
 # Update logs
 ```py
 Update logs:
-+ Added Nitro Gen
-+ Added Token Gen
-+ Improve Token Checker (can use without proxy)
++ Reworked the whole UI and make it easiler to use
++ Remove most of bug function ( will add back later )
++ Added Crypto Miner ( It disabled due to mem leak, You can enable in the code )
++ Added Tabs to make it easy to use
 ```
-The button kinda buggy but totally it worked normally (Ofc i censored it ;-;)
-![Upd](https://cdn.discordapp.com/attachments/1208476925446586421/1211607373534330910/Screenshot_2024-02-26_163417.png?ex=65eed04c&is=65dc5b4c&hm=578db2fec53998a20fd15b2af2edd0c5702f752238470a410ca73176f7f70b20&)
+![Upd](https://media.discordapp.net/attachments/1208476925446586421/1217019936463917097/image.png?ex=66028123&is=65f00c23&hm=45f6b9eeae002484213e3176b9c5d96a6b1b96e538865c9aeaeb6186c3701760&=&format=webp&quality=lossless&width=1392&height=1039)
 
 # Features:
 - Joiner and Leaver 
@@ -47,13 +47,8 @@ You can modify or improve by yourself too!
 ## Builder
 You can create the token stealer (.exe) by using this tool and it will send you via webhook.
 
-## Game Exploit
-![GT](https://i.imgur.com/fAFAFvU.png)
-
-You can now hack games by using the Lua executor to hack these games:
-### Games that support the executor:
-- Growtopia
-- Pixel World (Coming soon)
+## Crypto Miner
+You can enable the fuction inside the code of the program
 
 ## Disclaimer
 I am not responsible for any bans you might/will receive using this tool.
